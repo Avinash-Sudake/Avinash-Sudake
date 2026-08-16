@@ -106,5 +106,3 @@ Seeking an opportunity as a **Data Analyst** where I can apply my analytical thi
 - 🌐 **Portfolio:** https://avinash-sudake.github.io/Portfolio/
 
 ---
-
-> **"Without data, you're just another person with an opinion."** — W. Edwards Deming 📊
